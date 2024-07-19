@@ -22,7 +22,7 @@ I'm a passionate software engineering student. I have a strong interest in devel
 - Software Engineering Internships
 
 ## 📫 How to Reach Me
-- Email: [praveen@example.com](mailto:praveen@example.com)
+- Email: [praveen@example.com](mailto:praveen130503@gmail.com)
 - LinkedIn: [linkedin.com/in/praveen130503](https://linkedin.com/in/praveen130503)
 
 ## 😄 Pronouns
